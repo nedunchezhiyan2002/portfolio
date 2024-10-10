@@ -20,7 +20,6 @@
     display: grid;
     grid-template-columns: repeat(3,1fr);
     grid-gap:40px ;
-    padding-bottom: 5rem;
 }
 
 .project-card{
