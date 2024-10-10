@@ -24,7 +24,7 @@ const AboutContent = () => {
                         <p className="about__description">
                             Hello! I'm Nedunchezhiyan K, and I'm based in Tuticorin, India. I studied at Indian Institute of Technology, Madras, where I completed my bachelors in 2024.<br /><br />
                             Fastforward to today, and I can honestly say it's been a beautiful journery and I hope to grow even further to my goal of being a Software Developer. My current focus these days
-                            is on expanidng my portfolio by building more projects that I can add on here, as well as being a great team player at my current role.<br /><br />
+                            is on expanding my portfolio by building more projects that I can add on here, as well as being a great team player at my current role.<br /><br />
                             Here are a few technologies I’ve been working with recently:
                         </p>
                         <ul className="about__list">
