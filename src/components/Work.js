@@ -7,8 +7,12 @@ import React from 'react'
 
 const Work = () => {
   return (
-    <div className="work-container">
-        <h1 className="project-heading">PROJECTS</h1>
+    <section className="work-container" id="projects">
+        <div className="divider">
+          <h2 className="project-heading">Projects</h2>
+          <p className="project-subheading">Check out some of my personal projects</p>
+        </div>
+        
         <div className="project-container"> 
             {ProjectCardData.map((val,ind) => {
                 return (
@@ -18,11 +22,12 @@ const Work = () => {
                     title = {val.title}
                     text = {val.text}
                     view = {val.view}
+                    source = {val.source}
                     />
                 )
             })}
         </div>
-    </div>
+    </section>
   )
 }
 

@@ -1,26 +1,20 @@
-import pro1 from "../assets/project1.png"
+import pro1 from "../assets/front.png"
 import pro2 from "../assets/project2.png"
-import pro3 from "../assets/project3.png"
-
 const ProjectCardData = [
     {
         imgsrc: pro1,
-        title: "E-voting Website",
-        text: "Voting Online Website",
-        view: "abcd.com"
+        title: "Election Zone",
+        text: "Designed a simulation of online election",
+        view: "https://e-voting-website-1.onrender.com/",
+        source:"https://github.com/nedunchezhiyan2002/E-voting-Website"
     },
     {
         imgsrc: pro2,
-        title: "E-voting Website",
-        text: "Voting Online Website",
-        view: "abcd.com"
+        title: "ThePersonalBlog",
+        text: "Designed a personal blog website",
+        view: "https://blog-website-8pat.onrender.com/",
+        source:"https://github.com/nedunchezhiyan2002/blog_website"
     },
-    {
-        imgsrc: pro3,
-        title: "E-voting Website",
-        text: "Voting Online Website",
-        view: "abcd.com"
-    }
 ]
 
 export default ProjectCardData
