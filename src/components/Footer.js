@@ -14,16 +14,16 @@ const Footer = () => {
           nedunchezhiyan1010@gmail.com
         </a>
         <div class="social">
-          <a href="/">
-            <img height="20px" width="20px" src={facebook} alt="Facebook" />Facebook
-          </a>
-          <a href="/">
+          <a href="https://www.linkedin.com/in/nedunchezhiyank3/">
             <img height="20px" width="20px" src={Linkedin}  alt="Linkedin" />Linkedin
           </a>
-          <a href="/">
+          <a href="https://github.com/nedunchezhiyan2002/">
             <img height="20px" width="20px" src={GitHub} alt="GitHub" />Github
           </a>
-          <a href="/">
+          <a href="https://www.facebook.com/profile.php?id=100009829356585/">
+            <img height="20px" width="20px" src={facebook} alt="Facebook" />Facebook
+          </a>
+          <a href="https://x.com/Nedu1002/">
             <img height="20px" width="20px" src={Twitter} alt="Twitter" />Twitter
           </a>
         </div>
